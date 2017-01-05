@@ -12,9 +12,11 @@
   height:240px;
 }
 
+/*
 #canvas {
   display:none;
 }
+*/
 
 .camera {
   width: 340px;
@@ -24,6 +26,7 @@
 .output {
   width: 340px;
   display:inline-block;
+  vertical-align: top;
 }
 
 #startbutton {
@@ -43,5 +46,5 @@
 .contentarea {
   font-size: 16px;
   font-family: "Lucida Grande", "Arial", sans-serif;
-  width: 760px;
+  width: 1200px;
 }
